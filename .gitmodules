@@ -3,4 +3,4 @@
 	url = git@github.com:abhilashRupa/spring-reactive-exercises.git
 [submodule "spring-reactive-private-demos"]
 	path = spring-reactive-demos
-	url = git@github.com:abhilashRupa/spring-reactive-private-demos.git
+	url = git@github.com:abhilashRupa/spring-reactive-demos.git
