@@ -1,6 +1,6 @@
 [submodule "spring-reactive-exercises"]
 	path = spring-reactive-exercises
 	url = git@github.com:abhilashRupa/spring-reactive-exercises.git
-[submodule "spring-reactive-private-demos"]
+[submodule "spring-reactive-demos"]
 	path = spring-reactive-demos
 	url = git@github.com:abhilashRupa/spring-reactive-demos.git
